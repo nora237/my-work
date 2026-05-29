@@ -187,8 +187,3 @@ footer{
   .hero{padding: 80px 20px;}
   h2{font-size: 2rem;}
 }
-Pour changer le style vite fait :  
-Modifie juste --accent dans :root pour changer toute la couleur principale.  
-Ex: #f59e0b = orange, #10b981 = vert, #ec4899 = rose.
-
-Tu veux une version avec un toggle mode clair/sombre ou des animations au scroll ?
